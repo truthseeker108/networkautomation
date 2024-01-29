@@ -1,3 +1,4 @@
+import subprocess
 class Switch:
     def __init__(self, name, role, ovs_name):
         self.name = name
